@@ -6,6 +6,7 @@ http://dev.stephendiehl.com/hask/
 ### Tagless Final
 http://okmij.org/ftp/tagless-final/course/lecture.pdf
 ### Free Monad
+https://www.schoolofhaskell.com/user/dolio/many-roads-to-free-monads
 ### Freer Monads
 http://okmij.org/ftp/Haskell/extensible/more.pdf
 ### Datatypes A la Carte
@@ -26,6 +27,8 @@ https://www.haskell.org/arrows/
 https://wiki.haskell.org/GHC.Generics
 ### CPS transform
 ### Defunctionalization
+https://www.brics.dk/RS/01/23/BRICS-RS-01-23.pdf
+https://surface.syr.edu/cgi/viewcontent.cgi?article=1012&context=lcsmith_other
 ### Hindley Milner
 http://dev.stephendiehl.com/fun/006_hindley_milner.html
 ### Bidirectional Typechecking
@@ -33,6 +36,7 @@ http://www.davidchristiansen.dk/tutorials/implementing-types-hs.pdf
 http://www.davidchristiansen.dk/tutorials/bidirectional.pdf
 ### CoMonadic Interface (game of life)
 https://www.47deg.com/blog/game-of-life-scala/
+https://bartoszmilewski.com/2017/01/02/comonads/
 ### Coalgebras - Bisimilation
 ### Dependent types in Haskell
 https://www.schoolofhaskell.com/user/konn/prove-your-haskell-for-great-safety/dependent-types-in-haskell
@@ -50,6 +54,7 @@ https://github.com/ghc/ghc/blob/master/docs/core-spec/core-spec.pdf
 ### Cedille Core - Calculus of Dependent Lambda Eliminations
 https://homepage.cs.uiowa.edu/~astump/papers/cedille-draft.pdf
 ### Calculus of Constructions
+https://www.sciencedirect.com/science/article/pii/0890540188900053#
 https://hackage.haskell.org/package/morte-1.7.2/docs/Morte-Tutorial.html
 https://github.com/andrejbauer/spartan-type-theory
 ### Calculus of Inductive Constructions
